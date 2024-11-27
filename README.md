@@ -1,6 +1,6 @@
 # Bancolombia comparación de fechas 
 
-El presente proyecto es 
+
 
 
 ### Guía de instalación
